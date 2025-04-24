@@ -1,5 +1,7 @@
 # Sapphire
 
+[![.github/workflows/rust.yml](https://github.com/AlexanderWillner/sapphire/actions/workflows/rust.yml/badge.svg)](https://github.com/AlexanderWillner/sapphire/actions/workflows/rust.yml)
+
 > [!WARNING]
 > **ALPHA SOFTWARE**
 > Sapphire is experimental, under heavy development, and may be unstable. Use at your own risk!
